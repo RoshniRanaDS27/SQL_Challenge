@@ -1,5 +1,8 @@
 # SQL Functions, schemas, ERD (data modeling, data engineering, data analysis)
 # Background
+
+At Pewlett Hackard (a fictional company), tasked with a research project focused on employees whom the company employed during the 1980s and 1990s. The only remnants of the employee database from that period were six CSV files.
+
 For this project, I designed the tables to store the data from the CSV files, imported the CSV files into a SQL database, and then answered key questions about the data. This process involved data modeling, data engineering, and data analysis.
 
 # Instructions
